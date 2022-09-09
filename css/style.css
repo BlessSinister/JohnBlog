@@ -18,6 +18,7 @@ body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+    font-weight: 400;
 }
 
 /* Секция Hello */
@@ -31,12 +32,42 @@ body {
 .p_itd {
     color: var(--dark-blue);
     line-height: 24px;
-    font-weight: 400;
+
 }
 
 /* Секция с постами */
 .recent-post {
     background: var(--light-blue);
+    width: 375px;
+    height: 647px;
+
+}
+
+.rec_itd_p {
+    font-size: 18px;
+    line-height: 60px;
+    color: var(--dark-blue);
+}
+
+.rec_itd_h2 {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    color: var(--dark-blue);
+    margin-left: 19px;
+}
+
+.rec_itd_p {
+    line-height: 24px;
+    color: var(--dark-blue);
+    margin-left: 19px;
+}
+
+.rec_itd_p1 {
+    line-height: 24px;
+    color: var(--dark-blue);
+    margin-left: 19px;
+    font-size: 16px;
 }
 
 .recent-post-itd {
@@ -45,6 +76,13 @@ body {
     background: var(--white);
     box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
     border-radius: 4px;
+}
+
+.line {
+    height: 21px;
+    border: 1px solid #000000;
+    margin-left: 24px;
+    margin-right: 24px;
 }
 
 /* Feature-works-section */
