@@ -42,7 +42,7 @@ body {
 /* Секция с постами */
 .recent-post {
     background: var(--light-blue);
-    width: 375px;
+    width: 23.4rem;
     height: 647px;
 
 }
