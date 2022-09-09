@@ -1,0 +1,18 @@
+:root {
+    --orange: #D96262;
+    --light-gray: #8695A4;
+    --white: #EDF7FA;
+    --dark-blue: #21243D;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    font-family: 'Heebo', sans-serif;
+    font-size: 16px;
+}
