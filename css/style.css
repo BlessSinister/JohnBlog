@@ -1,8 +1,9 @@
 :root {
     --orange: #D96262;
     --light-gray: #8695A4;
-    --white: #EDF7FA;
+    --light-blue: #EDF7FA;
     --dark-blue: #21243D;
+    --white: #FFFFFF;
 }
 
 * {
@@ -16,4 +17,17 @@ body {
     width: 100%;
     margin: 0;
     padding: 0;
+}
+
+/* Секция с постами */
+.recent-post {
+    background: var(--light-blue);
+}
+
+.recent-post-itd {
+    width: 354px;
+    height: 266px;
+    background: var(--white);
+    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+    border-radius: 4px;
 }
