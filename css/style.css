@@ -17,7 +17,6 @@ body {
     width: 100%;
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
     font-weight: 400;
 }
 
@@ -28,14 +27,14 @@ body {
 
 .h2_itd {
     font-weight: 700;
-    font-size: 32px;
-    line-height: 40px;
+    font-size: 2rem;
+    line-height: 2.5rem;
     color: var(--dark-blue)
 }
 
 .p_itd {
     color: var(--dark-blue);
-    line-height: 24px;
+    line-height: 1.5rem;
 
 }
 
@@ -43,89 +42,89 @@ body {
 .recent-post {
     background: var(--light-blue);
     width: 23.4rem;
-    height: 647px;
+    height: 40.43rem;
 
 }
 
 .rec_itd_p {
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
     color: var(--dark-blue);
 
 }
 
 .rec_itd_h2 {
     font-weight: 700;
-    font-size: 22px;
-    line-height: 30px;
+    font-size: 1.37rem;
+    line-height: 1.8rem;
     color: var(--dark-blue);
-    margin-left: 19px;
+    margin-left: 1.18rem;
     margin-top: 12px;
 }
 
 .rec_itd_p11 {
-    line-height: 24px;
+    line-height: 1.5rem;
     color: var(--dark-blue);
-    margin-left: 19px;
+    margin-left: 1.18rem;
 
 }
 
 .rec_itd_p1 {
-    line-height: 24px;
+    line-height: 1.5rem;
     color: var(--dark-blue);
-    margin-left: 19px;
-    font-size: 16px;
+    margin-left: 1.18rem;
+    font-size: .75rem;
 }
 
 .recent-post-itd {
-    width: 354px;
-    height: 266px;
+    width: 22.12rem;
+    height: 16.62rem;
     background: var(--white);
-    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
-    border-radius: 4px;
+    box-shadow: 0px .25rem .62rem rgba(187, 225, 250, 0.25);
+    border-radius: .25rem;
     margin-bottom: 17px;
 }
 
 .line {
-    height: 21px;
-    border: 1px solid #000000;
-    margin-left: 24px;
-    margin-right: 24px;
+    height: 1.31rem;
+    border: .06rem solid #000000;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
 }
 
 /* Feature-works-section */
 .con-1 {
-    width: 344px;
-    height: 455px;
-    border-bottom: 1px solid #E0E0E0;
-    margin-bottom: 150px;
+    width: 34.25rem;
+    height: 28.43rem;
+    border-bottom: .06rem solid #E0E0E0;
+    margin-bottom: 9.37rem;
 }
 
 .start_itd {
-    margin-left: 22px;
+    margin-left: 1.37rem;
     color: var(--light-gray);
 }
 
 .img_f {
-    Width: 62px;
-    Height: 25px;
-    margin-left: 18px;
+    Width: 3.87rem;
+    Height: 1.56rem;
+    margin-left: 1.12rem;
 }
 
 /* Footer */
 .ico_foot {
-    margin-top: 51px;
-    padding-right: 31px;
+    margin-top: 5.06rem;
+    padding-right: 3.06rem;
 
 }
 
 .copy_footer {
-    margin-top: 26px;
-    margin-bottom: 54px;
+    margin-top: 1.62rem;
+    margin-bottom: 5.25rem;
 }
 
 .ico_foot:nth-child(4n) {
-    margin-top: 51px;
+    margin-top: 5.06rem;
     padding-right: 0;
 
 }
