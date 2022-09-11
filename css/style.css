@@ -41,7 +41,7 @@ body {
 /* Секция с постами */
 .recent-post {
     background: var(--light-blue);
-    width: 23.4rem;
+    width: 24rem;
     height: 40.43rem;
 
 }
@@ -73,7 +73,7 @@ body {
     line-height: 1.5rem;
     color: var(--dark-blue);
     margin-left: 1.18rem;
-    font-size: .75rem;
+    font-size: 1rem;
 }
 
 .recent-post-itd {
@@ -94,7 +94,7 @@ body {
 
 /* Feature-works-section */
 .con-1 {
-    width: 34.25rem;
+    width: 22.43rem;
     height: 28.43rem;
     border-bottom: .06rem solid #E0E0E0;
     margin-bottom: 9.37rem;
